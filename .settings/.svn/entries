@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/.settings"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="11"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2015-12-23T06:15:33.001481Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="2dfb4ce067f1529d1934162e0152d9b8"
+   last-author="toby.yao"
+   name=".jsdtscope"
+   text-time="2015-12-21T02:30:18.016000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="8e002b3721607c3736c7e838f1a3984e"
+   last-author="toby.yao"
+   name="org.eclipse.jdt.core.prefs"
+   text-time="2015-12-21T02:29:50.458000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="e652fd008653a1579da6f40fc065c49e"
+   last-author="toby.yao"
+   name="org.eclipse.wst.common.component"
+   text-time="2015-12-21T02:30:17.662000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="661d2323cd39d08a3977bb7754f70510"
+   last-author="toby.yao"
+   name="org.eclipse.wst.common.project.facet.core.xml"
+   text-time="2015-12-21T02:30:19.773000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="b27d1cf62dde4473bab7c433317bb0ce"
+   last-author="toby.yao"
+   name="org.eclipse.wst.jsdt.ui.superType.container"
+   text-time="2015-12-21T02:30:18.018000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="c89686a387d2b12b3c729ce35a0bcb5b"
+   last-author="toby.yao"
+   name="org.eclipse.wst.jsdt.ui.superType.name"
+   text-time="2015-12-21T02:30:18.018000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"/>
+<entry
+   kind="file"
+   committed-rev="11"
+   checksum="c04568d035d3d81fe6907b0fc9ce78ea"
+   last-author="toby.yao"
+   name="org.eclipse.wst.ws.service.policy.prefs"
+   text-time="2015-12-23T00:53:01.690000Z"
+   committed-date="2015-12-23T06:15:33.001000Z"/>
+</wc-entries>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/src/com/artwell/com/entity"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="14"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2016-01-04T02:43:53.291399Z"/>
+<entry
+   kind="file"
+   deleted="true"
+   name="Group.java"
+   revision="25"/>
+<entry
+   kind="file"
+   committed-rev="26"
+   checksum="6ef302195639d18b5e869431580af9f5"
+   last-author="toby.yao"
+   name="User.java"
+   revision="26"
+   text-time="2016-01-13T05:34:25.450000Z"
+   committed-date="2016-01-13T06:28:56.392000Z"/>
+</wc-entries>

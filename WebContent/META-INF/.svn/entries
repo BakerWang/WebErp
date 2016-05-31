@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/WebContent/META-INF"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="2"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   committed-date="2015-12-21T02:40:49.617000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="b10f37c8bb1803d98c127a01d1a71cc5"
+   last-author="toby.yao"
+   name="MANIFEST.MF"
+   text-time="2015-12-21T02:30:17.674000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"/>
+</wc-entries>

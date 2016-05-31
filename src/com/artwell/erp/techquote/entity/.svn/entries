@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/src/com/artwell/erp/techquote/entity"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="21"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2016-01-09T07:10:07.530862Z"/>
+<entry
+   kind="file"
+   committed-rev="25"
+   checksum="d1549dc58f779a857ba1edab1d2a4fd3"
+   last-author="toby.yao"
+   name="Quote.java"
+   revision="25"
+   text-time="2016-01-11T07:37:01.065000Z"
+   committed-date="2016-01-13T05:19:31.462000Z"/>
+<entry
+   kind="file"
+   committed-rev="17"
+   checksum="b4393e7e4afbb5f5441c04510ef65cb4"
+   last-author="toby.yao"
+   name="QuoteId.java"
+   text-time="2016-01-08T07:11:11.781000Z"
+   committed-date="2016-01-07T08:59:50.178000Z"/>
+<entry
+   kind="file"
+   committed-rev="30"
+   checksum="094ac2109b4fe182d1fcb4eeb62f137b"
+   last-author="toby.yao"
+   name="QuoteInfo.java"
+   revision="30"
+   text-time="2016-01-15T02:02:10.975000Z"
+   committed-date="2016-01-15T08:17:26.413000Z"/>
+<entry
+   kind="file"
+   committed-rev="30"
+   checksum="4d88378bf4d5fa149f0d74160038bd5f"
+   last-author="toby.yao"
+   name="Search.java"
+   revision="30"
+   text-time="2016-01-15T05:41:41.810000Z"
+   committed-date="2016-01-15T08:17:26.413000Z"/>
+<entry
+   kind="file"
+   committed-rev="10"
+   checksum="fc889cf9280300424180cb0f7145b157"
+   last-author="eric.chu"
+   name="Status.java"
+   text-time="2015-12-23T04:35:54.750000Z"
+   committed-date="2015-12-23T03:30:22.025372Z"
+   prop-time="2015-12-23T03:12:04.911000Z"/>
+<entry
+   kind="file"
+   committed-rev="14"
+   checksum="0f708e7501e3f628af2969c9e619e63a"
+   last-author="toby.yao"
+   name="Unit.java"
+   text-time="2015-12-29T00:51:49.210000Z"
+   committed-date="2016-01-04T02:43:53.291000Z"/>
+</wc-entries>

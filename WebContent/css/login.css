@@ -1,0 +1,23 @@
+#mainDiv{
+	position: absolute;
+	top: 200px;
+	left: 500px;
+	height: 100px;
+	background-color: rgb(53, 51, 51);
+	color: white;
+	padding-top: 15px;
+	padding-left: 10px;
+}
+#mainDiv td{
+	padding: 0px;
+	padding-right:20px; 
+}
+table td input[type='text'],input[type='password']{
+	//margin-left: 5px;
+	width: 200px;
+}
+.msg{
+	position: absolute;
+	top: 173px;
+	left: 500px;
+}

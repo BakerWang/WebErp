@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/design"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="21"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2016-01-09T07:10:07.530862Z"/>
+<entry
+   kind="file"
+   committed-rev="21"
+   checksum="beb35dc68cf75a04541ae61b93b064c3"
+   last-author="toby.yao"
+   name="报价单.xls"
+   text-time="2016-01-09T07:07:16.093000Z"
+   committed-date="2016-01-09T07:10:07.530000Z"
+   prop-time="2015-12-21T02:39:16.628000Z"/>
+</wc-entries>

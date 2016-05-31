@@ -1,0 +1,32 @@
+package com.artwell.com.action;
+
+import com.artwell.erp.common.BasicAction;
+
+public class LoginAction extends BasicAction {
+	private static final long serialVersionUID = 1L;
+	//(A)
+	public boolean authentication(String userName,String pwd){
+		// 1) lookup from ldap database,check if it exsits
+		// true  set attribute into session
+		
+		//dispatch to the display page according username
+		if("".equals("daniel") ){  //FIXME no need of special logic in log-in
+			//
+		}
+		return false;
+	}
+	//(B)
+    public void logout(){
+		//TODO clear user information saved in session 
+	}
+
+	@Override
+	public boolean validation() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	
+	
+    
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/src/com/artwell/erp/tna/entity"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="36"
+   last-author="toby.yao"
+   name=""
+   revision="36"
+   committed-date="2016-02-02T06:49:40.325000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="8952e3f0545b4f2f64fa7de5fa109c8b"
+   last-author="toby.yao"
+   name="PurchaseOrder.java"
+   text-time="2016-01-21T05:59:36.624000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="e2e15fb54c69e5c9ca516b2e6760d63b"
+   last-author="toby.yao"
+   name="SampleRecord.java"
+   text-time="2016-01-21T05:59:36.623000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="ff5221175de7c4636ecfc95bd0a401d5"
+   last-author="toby.yao"
+   name="StyleInfo.java"
+   text-time="2016-01-25T06:36:55.677000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="7d73ff80b186a14c668ac811cfa47672"
+   last-author="toby.yao"
+   name="StyleWorkflowRecord.java"
+   text-time="2016-01-21T05:59:36.622000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"/>
+</wc-entries>

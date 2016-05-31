@@ -1,0 +1,55 @@
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN" "http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+    <constant name="struts.i18n.encoding" value="UTF-8" />
+    <!-- 设置浏览器是否缓存静态内容,默认值为true(生产环境下使用),开发阶段最好关闭 -->
+    <constant name="struts.serve.static.browserCache" value="false" />
+    <constant name="struts.devMode" value="false" /> 
+    <constant name="struts.mapper.alwaysSelectFullNamespace" value="false" />   
+    <constant name="struts.enable.SlashesInActionNames" value="true" />  
+    <constant name="struts.enable.DynamicMethodInvocation" value="true" />
+   
+   <package name="WebErp" extends="json-default">
+     	<action name="techquote/quoteJson" class="com.artwell.erp.techquote.action.QuoteAction" method="query">
+         	<result type="json" name="success" >
+         		<param name="excludeProperties">quoteIdList,quoteDao</param>
+         	</result>
+         	<result  name="error" >/accessError.jsp</result>
+        </action>
+        <action name="techquote/quote" class="com.artwell.erp.techquote.action.QuoteAction" method="query">
+         	<result  name="success">/WEB-INF/jsp/quote.jsp</result>
+         	<result  name="login">/login.jsp</result>
+         	<result  name="error" >/accessError.jsp</result>
+        </action>
+        <action name="techquote/save" class="com.artwell.erp.techquote.action.QuoteAction" method="save">
+       		 <result name="success">/WEB-INF/jsp/quote.jsp</result>
+         	 <result  name="error" >/accessError.jsp</result>
+         	 <result  name="input" >/WEB-INF/jsp/quote.jsp</result>
+         	 <result  name="login">/login.jsp</result>
+        </action>
+        <action name="techquote/commit" class="com.artwell.erp.techquote.action.QuoteAction" method="commit">
+         	<result  name="success">/WEB-INF/jsp/quote.jsp</result>
+         	<result  name="error" >/accessError.jsp</result>
+         	<result  name="login">/login.jsp</result>
+        </action>
+        <action name="techquote/approval" class="com.artwell.erp.techquote.action.QuoteAction" method="approval">
+         	<result  name="success" type="redirect">/WEB-INF/workbooks/quote.xlsx</result>
+         	<result  name="error" >/accessError.jsp</result>
+         	<result  name="login">/login.jsp</result>
+        </action>
+         <action name="techquote/download" class="com.artwell.erp.techquote.action.QuoteAction" method="download">
+         	<result name="failed">/WEB-INF/jsp/quote.jsp</result>
+         	<result  name="success">/WEB-INF/workbooks/quote.xlsx</result>
+         	<result  name="error" >/accessError.jsp</result>
+         	<result  name="login">/login.jsp</result>
+        </action>
+        <action name="login" class="com.artwell.com.action.LoginAction" method="login">
+         	<result  name="success" type="redirect">/techquote/quote</result>
+         	<result  name="error">/login.jsp</result>
+        </action>
+        <action name="techquote/search" class="com.artwell.erp.techquote.action.SearchAction" method="search">
+         	<result  name="success">/WEB-INF/jsp/search.jsp</result>
+         	<result  name="error">/accessError.jsp</result>
+         	<result  name="login"  type="redirect">/login.jsp</result>
+        </action>
+    </package>
+</struts>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/src/com/artwell/com/action"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="13"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2015-12-28T08:40:08.547119Z"/>
+<entry
+   kind="file"
+   committed-rev="30"
+   checksum="731238a97b77681aeeff274ed3da4b45"
+   last-author="toby.yao"
+   name="LoginAction.java"
+   revision="30"
+   text-time="2016-01-15T00:55:01.010000Z"
+   committed-date="2016-01-15T08:17:26.413000Z"/>
+</wc-entries>

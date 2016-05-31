@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/src/com/artwell"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="21"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2016-01-09T07:10:07.530862Z"/>
+<entry
+   kind="dir"
+   name="com"/>
+<entry
+   kind="dir"
+   name="erp"/>
+</wc-entries>

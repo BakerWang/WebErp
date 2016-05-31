@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/src/com/artwell/erp/techquote/action"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="18"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2016-01-08T04:27:23.469495Z"/>
+<entry
+   kind="file"
+   deleted="true"
+   name="LoginAction.java"
+   revision="30"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="481f3a979ed48b59cdcd42007a1d3b42"
+   last-author="toby.yao"
+   name="QuoteAction.java"
+   revision="36"
+   text-time="2016-02-01T05:46:12.833000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"/>
+<entry
+   kind="file"
+   committed-rev="30"
+   checksum="4ec086f84bc60ae270318b63aae6cc95"
+   last-author="toby.yao"
+   name="SearchAction.java"
+   revision="30"
+   text-time="2016-01-15T06:50:01.462000Z"
+   committed-date="2016-01-15T08:17:26.413000Z"/>
+</wc-entries>

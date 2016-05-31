@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/src"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="21"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2016-01-09T07:10:07.530862Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="15306b549384c64572ae2a19ca3bd861"
+   last-author="toby.yao"
+   name="accessControl.xml"
+   revision="36"
+   text-time="2016-01-26T01:56:09.535000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"/>
+<entry
+   kind="file"
+   committed-rev="25"
+   checksum="ad59cd47adf10b18621b35fc66ca412e"
+   last-author="toby.yao"
+   name="applicationContext.xml"
+   revision="25"
+   text-time="2016-01-13T04:22:45.904000Z"
+   committed-date="2016-01-13T05:19:31.462000Z"/>
+<entry
+   kind="dir"
+   name="com"/>
+<entry
+   kind="file"
+   committed-rev="12"
+   checksum="48c5ee8701739e2b56f44fbf62c0590d"
+   last-author="toby.yao"
+   name="log4j.properties"
+   text-time="2015-12-25T01:50:25.978000Z"
+   committed-date="2015-12-28T03:54:55.138000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="fffa80beba0a5224a0b887d088c8f3ee"
+   last-author="toby.yao"
+   name="struts.xml"
+   revision="36"
+   text-time="2016-01-26T02:27:59.724000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"/>
+</wc-entries>

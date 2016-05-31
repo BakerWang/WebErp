@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/WebContent/WEB-INF"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="19"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2016-01-08T06:09:59.017208Z"/>
+<entry
+   kind="dir"
+   name="jsp"/>
+<entry
+   kind="dir"
+   name="lib"/>
+<entry
+   kind="dir"
+   name="tld"/>
+<entry
+   kind="file"
+   committed-rev="32"
+   checksum="6fefcca776253c21fbb4430010bfc416"
+   last-author="toby.yao"
+   name="web.xml"
+   revision="32"
+   text-time="2016-01-16T02:41:55.014000Z"
+   committed-date="2016-01-16T05:20:56.263000Z"/>
+<entry
+   kind="dir"
+   name="workbooks"/>
+</wc-entries>

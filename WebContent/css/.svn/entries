@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/WebContent/css"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="17"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2016-01-07T08:59:50.178026Z"/>
+<entry
+   kind="file"
+   committed-rev="33"
+   checksum="8cfa92a7a8d3f224f69f5c43b88324f8"
+   last-author="toby.yao"
+   name="common.css"
+   revision="33"
+   text-time="2016-01-18T05:56:48.786000Z"
+   committed-date="2016-01-18T07:49:32.335000Z"/>
+<entry
+   kind="file"
+   committed-rev="30"
+   checksum="f934bd504ef807489d4a6112efa4438c"
+   last-author="toby.yao"
+   name="login.css"
+   revision="30"
+   text-time="2016-01-15T01:00:27.666000Z"
+   committed-date="2016-01-15T08:17:26.413000Z"/>
+<entry
+   kind="file"
+   committed-rev="32"
+   checksum="bec2b549cc31d8306d04f88354edd8ba"
+   last-author="toby.yao"
+   name="quote.css"
+   revision="32"
+   text-time="2016-01-16T02:32:19.126000Z"
+   committed-date="2016-01-16T05:20:56.263000Z"/>
+<entry
+   kind="file"
+   committed-rev="32"
+   checksum="f1a7a756a3b1003f93c665d77cef3d11"
+   last-author="toby.yao"
+   name="search.css"
+   revision="32"
+   text-time="2016-01-16T05:14:13.502000Z"
+   committed-date="2016-01-16T05:20:56.263000Z"/>
+</wc-entries>

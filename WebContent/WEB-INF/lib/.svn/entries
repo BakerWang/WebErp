@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/WebContent/WEB-INF/lib"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="19"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2016-01-08T06:09:59.017208Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="8be66b10266c841671306126ec00c847"
+   last-author="toby.yao"
+   name="antlr-runtime-3.0.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.409000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="968575ef15e4024d205fa6ecddec67a9"
+   last-author="toby.yao"
+   name="asm-3.3.jar"
+   text-time="2016-01-08T05:40:14.519000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.618000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="ed8eec445e21ec7e49b86bf3cbcffcbc"
+   last-author="toby.yao"
+   name="commons-fileupload-1.3.1.jar"
+   text-time="2016-01-08T05:38:18.800000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.542000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="6ad49e3e16c2342e9ee9599ce04775e6"
+   last-author="toby.yao"
+   name="commons-io-2.2.jar"
+   text-time="2016-01-08T05:38:18.812000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.595000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="9f2013bc16457ff8dfbfbf3357060192"
+   last-author="toby.yao"
+   name="commons-lang3-3.2.jar"
+   text-time="2016-01-08T05:38:18.829000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.570000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="6b62417e77b000a87de66ee3935edbf5"
+   last-author="toby.yao"
+   name="commons-logging-1.1.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.296000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="4d8f51d3fe3900efc6e395be48030d6d"
+   last-author="toby.yao"
+   name="dom4j-1.6.1.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.774000Z"/>
+<entry
+   kind="file"
+   committed-rev="11"
+   checksum="e3107f2bfa416ef461f99f91bb1da59a"
+   last-author="toby.yao"
+   name="dsn.jar"
+   text-time="2015-12-23T06:15:33.001000Z"
+   committed-date="2015-12-23T06:15:33.001000Z"
+   prop-time="2015-12-23T06:14:12.265000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="51cca65040c41326e9b6b2806aba23ff"
+   last-author="toby.yao"
+   name="freemarker-2.3.22.jar"
+   text-time="2016-01-08T05:38:18.850000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.550000Z"/>
+<entry
+   kind="file"
+   committed-rev="11"
+   checksum="3cf07c51f00e80ae5f816015bb6a081f"
+   last-author="toby.yao"
+   name="gimap.jar"
+   text-time="2015-12-23T06:15:33.001000Z"
+   committed-date="2015-12-23T06:15:33.001000Z"
+   prop-time="2015-12-23T06:14:12.232000Z"/>
+<entry
+   kind="file"
+   committed-rev="11"
+   checksum="49bebd31cbad749b9d90d727faa24377"
+   last-author="toby.yao"
+   name="imap.jar"
+   text-time="2015-12-23T06:15:33.001000Z"
+   committed-date="2015-12-23T06:15:33.001000Z"
+   prop-time="2015-12-23T06:14:12.299000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="cb8f91e65864b85c8c6f87164e3252a5"
+   last-author="toby.yao"
+   name="javassist-3.11.0.GA.jar"
+   text-time="2016-01-08T05:38:18.867000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.625000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="204653de78e2cb9e7b404c9f60a90cfa"
+   last-author="toby.yao"
+   name="json-lib-2.3-jdk15.jar"
+   text-time="2016-01-08T05:38:18.900000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.518000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="1f40fb782a4f2cf78f161d32670f7a3a"
+   last-author="toby.yao"
+   name="junit-3.8.1.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.364000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="52169b4a318e3246483f39f62b84b948"
+   last-author="toby.yao"
+   name="log4j-1.2.13.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.800000Z"/>
+<entry
+   kind="file"
+   committed-rev="11"
+   checksum="cdbf3dfec525b27faefc8755bb3d35b7"
+   last-author="toby.yao"
+   name="mailapi.jar"
+   text-time="2015-12-23T06:15:33.001000Z"
+   committed-date="2015-12-23T06:15:33.001000Z"
+   prop-time="2015-12-23T06:14:12.292000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="d093f86f49782b46311c34f395ccf381"
+   last-author="toby.yao"
+   name="mysql-connector-java-5.1.7-bin.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.438000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="2a8fb06b52574e498ed256b8fc64055e"
+   last-author="toby.yao"
+   name="ognl-3.0.6.jar"
+   text-time="2016-01-08T05:38:18.915000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.691000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="09a14ea110921b53a4ed987e8cf93830"
+   last-author="toby.yao"
+   name="org.springframework.web-3.0.0.M3.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.781000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="6825e8566ad7c62365c69451397a1616"
+   last-author="toby.yao"
+   name="org.springframework.web.servlet-3.0.0.M3.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.575000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="c22098095e289dd8546d1565bc1a4c7d"
+   last-author="toby.yao"
+   name="poi-3.12-20150511.jar"
+   revision="36"
+   text-time="2016-01-26T02:21:10.611000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"
+   prop-time="2016-01-26T05:52:03.597000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="b92a02699fb028e44c9f0e8fd6f73986"
+   last-author="toby.yao"
+   name="poi-examples-3.12-20150511.jar"
+   revision="36"
+   text-time="2015-06-29T04:39:49.673000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"
+   prop-time="2016-01-26T05:52:03.799000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="22a654bc1fa88d8cb576fac5332875bf"
+   last-author="toby.yao"
+   name="poi-excelant-3.12-20150511.jar"
+   revision="36"
+   text-time="2016-01-26T02:21:10.745000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"
+   prop-time="2016-01-26T05:52:03.753000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="814df01e11086ff87739510448bb52ae"
+   last-author="toby.yao"
+   name="poi-ooxml-3.12-20150511.jar"
+   revision="36"
+   text-time="2016-01-26T02:21:10.899000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"
+   prop-time="2016-01-26T05:52:03.792000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="1d26c1d4aaab9f33c2c28e8dc90a2d48"
+   last-author="toby.yao"
+   name="poi-ooxml-schemas-3.12-20150511.jar"
+   revision="36"
+   text-time="2016-01-26T02:21:11.290000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"
+   prop-time="2016-01-26T05:52:03.728000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="1bced47edfecdda4a8f89b43ffa613dc"
+   last-author="toby.yao"
+   name="poi-scratchpad-3.12-20150511.jar"
+   revision="36"
+   text-time="2016-01-26T02:21:11.372000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"
+   prop-time="2016-01-26T05:52:03.683000Z"/>
+<entry
+   kind="file"
+   committed-rev="11"
+   checksum="512ac9ba092b95c9600344c812a01857"
+   last-author="toby.yao"
+   name="pop3.jar"
+   text-time="2015-12-23T06:15:33.001000Z"
+   committed-date="2015-12-23T06:15:33.001000Z"
+   prop-time="2015-12-23T06:14:12.312000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="3b1ececad9ebc3fbad2953ccf4a070ca"
+   last-author="toby.yao"
+   name="slf4j-api-1.7.5.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.710000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="d1957690094c85ba2e88b0fdedee9872"
+   last-author="toby.yao"
+   name="slf4j-jdk14-1.7.5.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.757000Z"/>
+<entry
+   kind="file"
+   committed-rev="11"
+   checksum="bdf79a54aa6152a08101b5b371d20974"
+   last-author="toby.yao"
+   name="smtp.jar"
+   text-time="2015-12-23T06:15:33.001000Z"
+   committed-date="2015-12-23T06:15:33.001000Z"
+   prop-time="2015-12-23T06:14:12.278000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="0a4e604be9849750d16758a67754215e"
+   last-author="toby.yao"
+   name="spring-aop-4.1.2.RELEASE.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.655000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="4c7a27ef826890af64d799ae79a4651c"
+   last-author="toby.yao"
+   name="spring-beans-4.1.2.RELEASE.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.402000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="101d65e8f4365d46ed13539b1e0a95f5"
+   last-author="toby.yao"
+   name="spring-context-4.1.2.RELEASE.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.599000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="1c2ee38654d1ecb827eb98702ac6e3f2"
+   last-author="toby.yao"
+   name="spring-core-4.1.2.RELEASE.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.520000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="419718a66ddcd5d8e715704a6ffa0528"
+   last-author="toby.yao"
+   name="spring-data-commons-1.6.1.RELEASE.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.466000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="79cca9612326ea8f00eb2cf437a0e0e7"
+   last-author="toby.yao"
+   name="spring-expression-4.1.2.RELEASE.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.737000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="89ad9f77beec08c689388383fb0d9557"
+   last-author="toby.yao"
+   name="spring-ldap-core-2.0.2.RELEASE.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.528000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="657b0deafd6f0e7ca95773829ed428f6"
+   last-author="toby.yao"
+   name="spring-tx-3.2.8.RELEASE.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.302000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="402130141d5f2cee727f4371e2e8fd8a"
+   last-author="toby.yao"
+   name="sqljdbc4.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.717000Z"/>
+<entry
+   kind="file"
+   committed-rev="2"
+   checksum="7d436a53c64490bee564c576babb36b4"
+   last-author="toby.yao"
+   name="stax-api-1.0.1.jar"
+   text-time="2015-12-21T02:40:49.617000Z"
+   committed-date="2015-12-21T02:40:49.617000Z"
+   prop-time="2015-12-21T02:39:16.371000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="776db520b3d016346e1538280d1e3eb3"
+   last-author="toby.yao"
+   name="struts2-convention-plugin-2.3.24.1.jar"
+   text-time="2016-01-08T05:38:18.957000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.602000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="4ab1839774290cc2e928e1a8659355a2"
+   last-author="toby.yao"
+   name="struts2-core-2.3.24.1.jar"
+   text-time="2016-01-08T05:38:18.977000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.672000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="b7f5280ecfb002f24ade9723fe3c8e9c"
+   last-author="toby.yao"
+   name="struts2-json-plugin-2.3.24.1.jar"
+   text-time="2016-01-08T05:38:18.993000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.525000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="6a59c023eb01d8d1dfdd3bf21b1158e4"
+   last-author="toby.yao"
+   name="struts2-junit-plugin-2.3.24.1.jar"
+   text-time="2016-01-08T05:38:18.757000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.534000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="51a4778b4a5351028fd61b3ea3db3337"
+   last-author="toby.yao"
+   name="struts2-spring-plugin-2.3.24.1.jar"
+   text-time="2016-01-08T05:38:18.771000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.579000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="6591c08682d613194dacb01e95c78c2c"
+   last-author="toby.yao"
+   name="xmlbeans-2.6.0.jar"
+   revision="36"
+   text-time="2015-06-29T04:41:12.884000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"
+   prop-time="2016-01-26T05:52:03.760000Z"/>
+<entry
+   kind="file"
+   committed-rev="19"
+   checksum="e5d7f96be4a6405f0fca098c9e3d9781"
+   last-author="toby.yao"
+   name="xwork-core-2.3.24.1.jar"
+   text-time="2016-01-08T05:38:18.790000Z"
+   committed-date="2016-01-08T06:09:59.017000Z"
+   prop-time="2016-01-08T06:07:56.610000Z"/>
+</wc-entries>

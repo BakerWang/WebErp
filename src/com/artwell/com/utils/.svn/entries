@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/src/com/artwell/com/utils"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="21"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2016-01-09T07:10:07.530862Z"/>
+<entry
+   kind="file"
+   committed-rev="29"
+   checksum="a0d48f3bee7b5699347fcd0301c4bfa2"
+   last-author="toby.yao"
+   name="AlertUtils.java"
+   revision="29"
+   text-time="2016-01-14T03:45:54.051000Z"
+   committed-date="2016-01-14T08:12:09.797000Z"/>
+<entry
+   kind="file"
+   committed-rev="21"
+   checksum="f8b80bd9fd55f7ec88065a22a8cd9d4d"
+   last-author="toby.yao"
+   name="DatabaseUtils.java"
+   text-time="2016-01-09T06:59:55.440000Z"
+   committed-date="2016-01-09T07:10:07.530000Z"/>
+<entry
+   kind="file"
+   committed-rev="21"
+   checksum="41362955960d1b469893b6e9b32ce711"
+   last-author="toby.yao"
+   name="Log4jUtils.java"
+   text-time="2016-01-09T07:00:00.727000Z"
+   committed-date="2016-01-09T07:10:07.530000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="4480212ce1bc5961487863173de28ac4"
+   last-author="toby.yao"
+   name="QuoteTag.java"
+   revision="36"
+   text-time="2016-02-01T05:38:17.531000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"/>
+<entry
+   kind="file"
+   committed-rev="25"
+   checksum="2b28efeb3ef23eceb9115641fd3b74c2"
+   last-author="toby.yao"
+   name="SHAConverter.java"
+   revision="25"
+   text-time="2016-01-13T01:48:04.590000Z"
+   committed-date="2016-01-13T05:19:31.462000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="7c9544603d686630873d5bdac9202b6d"
+   last-author="toby.yao"
+   name="XMLParser.java"
+   revision="36"
+   text-time="2016-01-21T05:08:43.818000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"/>
+</wc-entries>

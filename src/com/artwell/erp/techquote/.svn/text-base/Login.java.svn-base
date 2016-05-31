@@ -1,0 +1,37 @@
+package com.artwell.erp;
+
+import com.artwell.erp.common.WebErpBasicAction;
+import com.artwell.erp.entity.in.UserInDto;
+import com.artwell.erp.entity.out.UserOutDto;
+
+public class Login extends WebErpBasicAction<UserInDto,UserOutDto> {
+	private static final long serialVersionUID = 1L;
+	//(A)
+	public boolean authentication(String userName,String pwd){
+		// 1) lookup from ldap database,check if it exsits
+		// true  set attribute into session
+		return false;
+	}
+	//(B)
+    public void logout(){
+		//TODO clear user information saved in session 
+	}
+
+	@Override
+	public void setInDto() {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public boolean validation() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void getOutDto() {
+		// TODO Auto-generated method stub
+		
+	}
+    
+}

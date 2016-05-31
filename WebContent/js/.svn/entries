@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/WebContent/js"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="21"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2016-01-09T07:10:07.530862Z"/>
+<entry
+   kind="file"
+   committed-rev="32"
+   checksum="0daa785dc4271454e0881a716a0c520f"
+   last-author="toby.yao"
+   name="common.js"
+   revision="32"
+   text-time="2016-01-16T04:29:59.806000Z"
+   committed-date="2016-01-16T05:20:56.263000Z"/>
+<entry
+   kind="file"
+   committed-rev="14"
+   checksum="3d93b072d14f2bd1ede58f4847f537fd"
+   last-author="toby.yao"
+   name="jquery-1.11.1.js"
+   text-time="2014-12-12T08:09:18.700000Z"
+   committed-date="2016-01-04T02:43:53.291000Z"/>
+<entry
+   kind="file"
+   committed-rev="15"
+   checksum="e1983a383b4d278b21215666a6ff834b"
+   last-author="toby.yao"
+   name="login.js"
+   text-time="2016-01-06T02:43:46.943000Z"
+   committed-date="2016-01-07T01:44:18.113000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="2faed650c7cd747e012d36ee0a43f345"
+   last-author="toby.yao"
+   name="quote.js"
+   revision="36"
+   text-time="2016-01-26T05:26:31.689000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"/>
+<entry
+   kind="file"
+   committed-rev="34"
+   checksum="fe0ffbe83ac1906fb8414c1aa41a18e2"
+   last-author="toby.yao"
+   name="search.js"
+   revision="34"
+   text-time="2016-01-19T06:08:26.150000Z"
+   committed-date="2016-01-19T06:17:17.889000Z"/>
+</wc-entries>

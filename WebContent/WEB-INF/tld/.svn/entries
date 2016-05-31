@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/WebContent/WEB-INF/tld"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="24"
+   last-author="toby.yao"
+   name=""
+   revision="24"
+   committed-date="2016-01-11T06:39:23.370000Z"/>
+<entry
+   kind="file"
+   committed-rev="25"
+   checksum="4080c1be9c27e556b7246410f7b75c2f"
+   last-author="toby.yao"
+   name="Function.tld"
+   revision="25"
+   text-time="2016-01-11T11:31:54.381000Z"
+   committed-date="2016-01-13T05:19:31.462000Z"/>
+</wc-entries>

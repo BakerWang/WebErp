@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/src/com/artwell/erp/tna/dao"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="36"
+   last-author="toby.yao"
+   name=""
+   revision="36"
+   committed-date="2016-02-02T06:49:40.325000Z"/>
+<entry
+   kind="file"
+   committed-rev="36"
+   checksum="1ab57c8ef4d7f33d5fec6f4ab2fd1759"
+   last-author="toby.yao"
+   name="StyleWorkflowRecordDao.java"
+   text-time="2016-01-25T08:59:40.896000Z"
+   committed-date="2016-02-02T06:49:40.325000Z"/>
+</wc-entries>

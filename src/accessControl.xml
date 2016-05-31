@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<urls>
+		<url id="1" value="/techquote/quote" >
+			<approver>group_management</approver>
+			<editor>group_technician</editor>
+			<viewer>group_hk</viewer>
+			<viewer>group_tx</viewer>
+		</url>
+		<url id="2" value="/techquote/quoteJson" >
+			<viewer>group_hk</viewer>
+			<viewer>group_tx</viewer>
+		</url>
+		<url id="3" value="/techquote/save" >
+			<approver>group_management</approver>
+			<editor>group_technician</editor>
+			<viewer>group_hk</viewer>
+			<viewer>group_tx</viewer>
+		</url>
+		<url id="4" value="/techquote/commit" >
+			<editor>group_technician</editor>
+			<viewer>group_hk</viewer>
+			<viewer>group_tx</viewer>
+		</url>
+		<url id="5" value="/techquote/approval" >
+			<approver>group_management</approver>
+			<viewer>group_hk</viewer>
+			<viewer>group_tx</viewer>
+		</url>
+		<url id="6" value="/techquote/download" >
+			<viewer>group_hk</viewer>
+			<viewer>group_tx</viewer>
+		</url>
+		<url id="7" value="/techquote/search">
+			<viewer>group_hk</viewer>
+			<viewer>group_tx</viewer>
+		</url>
+	</urls>
+</configuration>

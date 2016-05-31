@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://svn.internal/svn/WebErp/trunk/WebContent"
+   repos="http://svn.internal/svn/WebErp"
+   kind="dir"
+   committed-rev="21"
+   last-author="toby.yao"
+   name=""
+   revision="21"
+   uuid="ff60553b-0ef3-423a-b5d4-2296732189ab"
+   committed-date="2016-01-09T07:10:07.530862Z"/>
+<entry
+   kind="dir"
+   name="META-INF"/>
+<entry
+   kind="dir"
+   name="WEB-INF"/>
+<entry
+   kind="file"
+   committed-rev="16"
+   checksum="955b3fcc6163c71e7ac08251fb12e7d2"
+   last-author="toby.yao"
+   name="accessError.jsp"
+   text-time="2016-01-06T08:41:39.161000Z"
+   committed-date="2016-01-07T04:20:05.801000Z"/>
+<entry
+   kind="file"
+   committed-rev="27"
+   checksum="6bd9dd3f4035febf29b5ec06fa2b6d1e"
+   last-author="toby.yao"
+   name="checkLogin.jsp"
+   revision="27"
+   text-time="2016-01-13T11:55:16.644000Z"
+   committed-date="2016-01-13T12:12:56.287000Z"/>
+<entry
+   kind="dir"
+   name="css"/>
+<entry
+   kind="dir"
+   name="js"/>
+<entry
+   kind="file"
+   committed-rev="30"
+   checksum="def39145d4330489543614da1b178e70"
+   last-author="toby.yao"
+   name="login.jsp"
+   revision="30"
+   text-time="2016-01-15T00:59:47.764000Z"
+   committed-date="2016-01-15T08:17:26.413000Z"/>
+<entry
+   kind="file"
+   committed-rev="30"
+   checksum="d95e3d2bd4a2e65ce7f76294aa2ad58f"
+   last-author="toby.yao"
+   name="navigation.jsp"
+   revision="30"
+   text-time="2016-01-15T06:36:52.842000Z"
+   committed-date="2016-01-15T08:17:26.413000Z"/>
+<entry
+   kind="file"
+   committed-rev="32"
+   checksum="20aaa69ff28b25485b922aa36fd3db7f"
+   last-author="toby.yao"
+   name="noFind.html"
+   revision="32"
+   text-time="2016-01-16T02:36:32.305000Z"
+   committed-date="2016-01-16T05:20:56.263000Z"/>
+<entry
+   kind="file"
+   deleted="true"
+   name="quote.jsp"
+   revision="30"/>
+<entry
+   kind="file"
+   deleted="true"
+   name="search.jsp"
+   revision="30"/>
+</wc-entries>

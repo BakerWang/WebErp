@@ -1,0 +1,70 @@
+input{
+	cursor: pointer;
+}
+input:hover{
+	border: 2px solid red;
+}
+#mainDiv tr {
+	padding: 0px;
+	position: relative;
+}
+#mainDiv td {
+	height: 20px;
+	font-size: 14px;
+	padding: 0px;
+	position: relative;
+}
+#mainDiv  td:not(.title) {
+	width: 120px !important;
+	//overflow:hidden;
+	word-break: break-word;
+}
+#mainDiv td input {
+	width: 120px;
+	margin-top: 2px;
+}
+.unedible {
+	width: 120px !important;
+	background-color: rgb(230, 230, 230);
+    color: rgb(10, 10, 10);
+	height: auto !important;
+	border-color: rgb(10, 10, 10);
+}
+#mainDiv td span select{
+	padding: 0px;
+	margin: 0px;
+	}
+#mainDiv td label,#mainDiv td span {
+	position: absolute;
+	width: 58px;
+	right: 0px;
+	text-align: right;
+	display: inline-block;
+	margin-top: 2px;
+}
+.price label{
+	text-align: left !important;
+	left: 0px;
+	margin-top: 2px;
+}
+.price input{
+	padding-left: 10px;
+	box-sizing: border-box;
+	width: 150px !important;
+}
+.title{
+	//background-color: rgb(71, 71, 71);
+	//color: white;
+}
+.versionSelect{
+	left: 0px  !important;
+	margin-top: 0px !important;
+	width: 125px !important;
+	top: 0px !important;
+	height: 25px  !important;
+}
+#buttonDiv{
+position: fixed;
+right: 50px;
+top: 10px;
+}
